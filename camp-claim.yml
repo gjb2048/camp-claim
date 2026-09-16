@@ -6,6 +6,51 @@ labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+overrides:
+  theme_essential:
+    labels:
+      - fully-free
+      - donation-supported
+  format_weekcoll:
+    labels:
+      - fully-free
+  theme_shoehorn:
+    labels:
+      - fully-free
+  format_noticebd:
+    labels:
+      - fully-free
+  theme_mutant_banjo:
+    labels:
+      - fully-free
+  format_columns:
+    labels:
+      - fully-free
+  format_slimtopics:
+    labels:
+      - fully-free
+  format_waiariki:
+    labels:
+      - fully-free
+  theme_shoelace:
+    labels:
+      - fully-free
+  block_iconic_html:
+    labels:
+      - fully-free
+  theme_cordwainer:
+    labels:
+      - fully-free
+  theme_hairbourne:
+    labels:
+      - fully-free
+  theme_moment:
+    labels:
+      - fully-free
+  theme_opaque:
+    labels:
+      - fully-free
+      - donation-supported
 exclude:
 - block_course_index
 - assignsubmission_assignmentnotes
