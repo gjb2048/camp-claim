@@ -1,7 +1,17 @@
 maintainers:
 - github: gjb2048
+  name: Gareth Barnard
 security-contact: https://github.com/gjb2048/camp-claim/security/advisories
 labels:
 - fully-free
 - donation-supported
 - commercial-support-available
+exclude:
+- block_course_index
+- assignsubmission_assignmentnotes
+- block_assignment_review
+- block_jmail
+- format_ned
+- theme_ned_boost
+- theme_ned_clean
+- tool_simpletool
