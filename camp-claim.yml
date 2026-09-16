@@ -17,5 +17,5 @@ overrides:
   theme_cordwainer: {labels: [fully-free]}
   theme_hairbourne: {labels: [fully-free]}
   theme_moment: {labels: [fully-free]}
-  theme_opaque: {labels: [fully-free, donation-supported]
+  theme_opaque: {labels: [fully-free, donation-supported]}
 exclude: [block_course_index, assignsubmission_assignmentnotes, block_assignment_review, block_jmail, format_ned, theme_ned_boost, theme_ned_clean, tool_simpletool]
